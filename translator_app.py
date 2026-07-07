@@ -1,23 +1,3 @@
-"""
-Language Translation Tool (Streamlit version)
-----------------------------------------------
-A web GUI app that lets you type text, pick a source and target
-language, and get a translation using the free Google Translate backend
-(via the `deep_translator` package - no API key required).
-
-Extra features:
-  - Copy translated text (built-in browser copy from the text box)
-  - Text-to-speech playback of the translation (via gTTS, playable in-browser)
-  - Swap source/target languages with one click
-
-Run locally:
-    pip install -r requirements.txt
-    streamlit run translator_app.py
-
-Deploy:
-    Push to GitHub and deploy on Streamlit Community Cloud - no extra
-    system packages required.
-"""
 
 import io
 
