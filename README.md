@@ -1,4 +1,4 @@
-# 🌐 Language Translator (codealpha task 1)
+# 🌐 Language Translator 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
